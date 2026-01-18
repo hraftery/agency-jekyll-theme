@@ -27,9 +27,10 @@ en: &DEFAULT_EN
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Markdown"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+        url: https://en.wikipedia.org/wiki/Markdown #Link applied to title and icon. You can also specify an #anchor to navigate within the page.
 
   portfolio:
     title: "Portfolio"
